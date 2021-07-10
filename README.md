@@ -84,6 +84,24 @@ PayPal, Stripe, Authorised.net, Braintree, PayUmoney, CCAvenue, Paytm, juspay, W
 Jira, Asana, Lighthouse, Trello, Slack, Meet, Skype
 ```
 
+<img align="left" alt="android" src="https://img.shields.io/badge/Database-f06e6c.svg?&style=for-the-badge&logo=Coding%20Method&logoColor=white" />
+<br>
+<br>
+
+```
+ Realm, MySQL, Room database(Live), SQLite
+ Queries, PL/SQL Picasso. Stored Procedures, Functions, Triggers
+```
+
+<img align="left" alt="android" src="https://img.shields.io/badge/Transmitting%20Network%20Data-fee5a8.svg?&style=for-the-badge&logo=Coding%20Method&logoColor=white" />
+<br>
+<br>
+
+```
+Google Volley and Retrofit, AWS IOT, Scoket IO, Firebase Live database
+```
+
+
 
 
 
@@ -98,9 +116,9 @@ Jira, Asana, Lighthouse, Trello, Slack, Meet, Skype
 - : 
   
 - : 
-- Database: Realm, MySQL, Room database(Live), SQLite
-- Queries, PL/SQL Picasso. Stored Procedures, Functions, Triggers
-- Transmitting Network Data: Google Volley and Retrofit
+- :
+- 
+- : 
 - View Injection: Dagger2, Android annotation
 - JavaScript Interface with native components
 - Bluetooth low energy
