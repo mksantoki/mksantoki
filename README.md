@@ -101,28 +101,21 @@ Jira, Asana, Lighthouse, Trello, Slack, Meet, Skype
 Google Volley and Retrofit, AWS IOT, Scoket IO, Firebase Live database
 ```
 
-
-
-
-
-
-
-
-
-
-
+<img align="left" alt="android" src="https://img.shields.io/badge/View%20Injection-0cda0a.svg?&style=for-the-badge&logo=Coding%20Method&logoColor=white" />
+<br>
+<br>
 
 ```
-- : 
-  
-- : 
-- :
-- 
-- : 
-- View Injection: Dagger2, Android annotation
-- JavaScript Interface with native components
-- Bluetooth low energy
+Dagger2, Android annotation, Koin, Hilt
 ```
+
+<img align="left" alt="android" src="https://img.shields.io/badge/JavaScript%20Interface%20with%20native%20components-001e2d.svg?&style=for-the-badge&logo=Coding%20Method&logoColor=white" />
+
+<br>
+<br>
+
+<img align="left" alt="android" src="https://img.shields.io/badge/Bluetooth%20low%20energy-287bb1.svg?&style=for-the-badge&logo=Coding%20Method&logoColor=white" />
+<br>
 
 ## EDUCATION
 ```
