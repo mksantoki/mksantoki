@@ -1,4 +1,10 @@
 # Expert in mobile application and web development
+
+<img src="https://github-readme-stats.vercel.app/api?username=mksantoki&show_icons=true&theme=gotham" alt="mksantoki | Stats" />
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{mksantoki}/count.svg)
+
 ## Expertise
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="android" src="https://img.shields.io/badge/kotlin-7f52ff.svg?&style=for-the-badge&logo=Coding%20Method&logoColor=white" />
@@ -128,3 +134,6 @@ Bachelor of Computer Engineering, Engineering
 Swami Sachchidanand Polytechnic College 
 Diploma Computer Engineering
 ```
+
+
+
