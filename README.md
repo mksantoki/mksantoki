@@ -23,7 +23,7 @@
 
 ## PROFESSIONAL SUMMARY
 ```
-6+ year experience in native Android application's development using Android SDK, developing Java
+7+ year experience in native Android application's development using Android SDK, developing Java
 Web based applications using Core Java, JSP technologies, PHP. Process expertise in java development and mobile UI-
 design/Framework skilled at progressing from Problem statement to well documented designs. Enthusiastic,
 hardworking, quick learner, good inter-personal communication and always eager to Take up new assignments.
